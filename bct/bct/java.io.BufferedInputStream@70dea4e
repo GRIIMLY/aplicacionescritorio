@@ -1,0 +1,11 @@
+ago 30, 2019 11:13:20 AM gov.co.escuela.bct.controllers.impl.DeleteCourseFileImpl DeleteCoursesFiles
+INFORMACIÓN: Se empieza el proceso de borrado de las escarapelas
+ago 30, 2019 11:13:20 AM gov.co.escuela.bct.controllers.impl.DeleteCourseFileImpl DeleteCoursesFiles
+GRAVE: Se genero un error al eliminar las escarapelas en la ruta : C:/Users/nmorales/usr/local/ejrlbdocs/fjc/escarapelas
+ago 30, 2019 11:13:20 AM gov.co.escuela.bct.controllers.impl.DeleteCourseFileImpl DeleteCoursesFiles
+GRAVE: java.lang.NullPointerException
+	at gov.co.escuela.bct.controllers.impl.DeleteCourseFileImpl.DeleteCoursesFiles(DeleteCourseFileImpl.java:37)
+	at gov.co.escuela.bct.AppView.main(AppView.java:21)
+
+ago 30, 2019 11:13:20 AM gov.co.escuela.bct.AppView main
+INFORMACIÓN: Se proceso con éxito

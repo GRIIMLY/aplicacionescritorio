@@ -1,0 +1,8 @@
+gov\co\escuela\bct\dto\ParametrosCursoFormacionDTO.class
+gov\co\escuela\bct\controllers\IDeleteCoursesFile.class
+gov\co\escuela\bct\dao\ParametrosCursoFormacionDAO.class
+gov\co\escuela\bct\log\LogBct.class
+gov\co\escuela\bct\controllers\impl\DeleteCourseFileImpl.class
+gov\co\escuela\bct\service\util\ParametrosCursosFormacionMapper.class
+gov\co\escuela\bct\AppView.class
+gov\co\escuela\bct\connection\MysqlConnection.class
